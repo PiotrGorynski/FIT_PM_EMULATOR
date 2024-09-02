@@ -12,5 +12,6 @@
 *.op.raw
 *.PrjPCBStructure
 *.txt
+*.zip
 
 /Project Outputs*/
